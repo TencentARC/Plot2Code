@@ -1,0 +1,5 @@
+matplotlib==3.8.4
+Levenshtein
+NumPy
+Pillow
+openai
