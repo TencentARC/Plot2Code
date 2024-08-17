@@ -96,7 +96,7 @@ In this study, we crawled every website link listed in the Matplotlib gallery an
 
 By adhering to these guidelines, we ensure that our use of the Matplotlib and Plotly content is fully compliant with their respective licenses.
 
-This project is open-sourced under the [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). These evaluation code and datasets are fully open for academic research and can be used for commercial purposes with official written permission. 
+This project is open-sourced under the [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). These evaluation code and datasets are fully open for academic research and can be used for commercial purposes with official written permission. Check our [dataset sheet](dataset_sheet.pdf) for more information.
 
 # Citation
 The code and model in this repository is mostly developed for or derived from the paper below. Please cite it if you find the repository helpful.
