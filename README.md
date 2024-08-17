@@ -86,6 +86,15 @@ See [scripts](scripts) for more details.
 Stay tuned for this project! 😆
 
 # License
+
+In this study, we crawled every website link listed in the Matplotlib gallery and Plotly documentation to collect data for our analysis. Both Matplotlib and Plotly libraries are distributed under permissive open-source licenses. We have taken the following steps to ensure compliance with the respective license terms:
+
+1. Acknowledgment of Licenses: We acknowledge that the Matplotlib library and its gallery are distributed under the BSD 3-Clause License, and the Plotly library and its documentation are distributed under the MIT License.
+2. Retention of Copyright Notices: We have retained all copyright notices and license information from the original Matplotlib gallery content and Plotly documentation, as required by their respective licenses.
+3. Usage and Distribution: Our use of the Matplotlib gallery and Plotly documentation content is solely for academic and research purposes. We have not modified the original content from the Matplotlib gallery or Plotly documentation, and any distribution of our work will include proper attribution to the Matplotlib and Plotly projects.
+
+By adhering to these guidelines, we ensure that our use of the Matplotlib and Plotly content is fully compliant with their respective licenses.
+
 This project is open-sourced under the [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). These evaluation code and datasets are fully open for academic research and can be used for commercial purposes with official written permission. 
 
 # Citation
