@@ -82,6 +82,7 @@ python -m plot2code.eval.combine_evaluation_results  --model_name "$model_name" 
 See [scripts](scripts) for more details.
 
 # News
+* 🔥[2024/08] We futther update the Python and R's plotly plot-code pairs with instruction for evaluation!🔥
 * 🔥[2024/05] We open source the [Plot2Code benchmark](https://huggingface.co/datasets/TencentARC/Plot2Code).
 Stay tuned for this project! 😆
 
